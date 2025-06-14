@@ -1,7 +1,7 @@
 {
   "name": "@omnedia/ngx-glitch-text",
   "description": "An Angular library that provides a fast, fully CSS-based glitch text effect for headlines, banners, and bold UI statements.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "peerDependencies": {
     "@angular/common": "^18.0.0",
     "@angular/core": "^18.0.0"
